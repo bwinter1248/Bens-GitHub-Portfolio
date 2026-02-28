@@ -301,8 +301,9 @@ ul { list-style: none; }
    ========================================== */
 .projects-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(300px, 380px));
   gap: 1.5rem;
+  justify-content: center;
 }
 .project-card {
   background: var(--surface);
@@ -419,10 +420,11 @@ ul { list-style: none; }
 .resume-cta { margin: 2rem 0; }
 .resume-highlights {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(240px, 320px));
   gap: 1.5rem;
   margin-top: 3rem;
   text-align: left;
+  justify-content: center;
 }
 .highlight-card {
   background: var(--surface);
