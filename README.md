@@ -4,7 +4,7 @@ A professional computer science portfolio built with HTML, CSS, and JavaScript, 
 
 ## Live Site
 
-[**benjaminwinter.github.io/Bens-GitHub-Portfolio**](https://bwinter1248.github.io/Bens-GitHub-Portfolio)
+[**bwinter1248.github.io/Bens-GitHub-Portfolio**](https://bwinter1248.github.io/Bens-GitHub-Portfolio)
 <!-- Replace YOUR_USERNAME with your actual GitHub username -->
 
 ## Sections
