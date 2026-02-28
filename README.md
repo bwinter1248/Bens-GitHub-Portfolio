@@ -4,7 +4,7 @@ A professional computer science portfolio built with HTML, CSS, and JavaScript, 
 
 ## Live Site
 
-[**benjaminwinter.github.io/Bens-GitHub-Portfolio**](https://YOUR_USERNAME.github.io/Bens-GitHub-Portfolio)
+[**benjaminwinter.github.io/Bens-GitHub-Portfolio**](https://bwinter1248.github.io/Bens-GitHub-Portfolio)
 <!-- Replace YOUR_USERNAME with your actual GitHub username -->
 
 ## Sections
@@ -36,4 +36,4 @@ A professional computer science portfolio built with HTML, CSS, and JavaScript, 
 1. Push this repository to GitHub
 2. Go to **Settings → Pages**
 3. Set **Source** to `Deploy from a branch`, branch `main`, folder `/ (root)`
-4. Your site will be live at `https://YOUR_USERNAME.github.io/Bens-GitHub-Portfolio`
+4. Your site will be live at `https://bwinter1248.github.io/Bens-GitHub-Portfolio`
